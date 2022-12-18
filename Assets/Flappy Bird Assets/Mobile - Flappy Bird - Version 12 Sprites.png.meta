@@ -287,9 +287,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -577,33 +577,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mobile - Flappy Bird - Version 12 Sprites_10
-      rect:
-        serializedVersion: 2
-        x: 295
-        y: 432
-        width: 32
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d4428f423001ac40800000000000000
-      internalID: 5521694834215240920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Mobile - Flappy Bird - Version 12 Sprites_11
       rect:
         serializedVersion: 2
-        x: 329
+        x: 295
         y: 428
-        width: 58
+        width: 92
         height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -624,7 +603,7 @@ TextureImporter:
         serializedVersion: 2
         x: 395
         y: 432
-        width: 49
+        width: 96
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -635,27 +614,6 @@ TextureImporter:
       bones: []
       spriteID: 5cf80d0e464ba0570800000000000000
       internalID: 8433751597566169029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mobile - Flappy Bird - Version 12 Sprites_13
-      rect:
-        serializedVersion: 2
-        x: 449
-        y: 432
-        width: 42
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 445610dd97ad4a250800000000000000
-      internalID: 5955124824224392516
       vertices: []
       indices: 
       edges: []
@@ -1328,27 +1286,6 @@ TextureImporter:
       bones: []
       spriteID: 33143086f90f52c00800000000000000
       internalID: 875370270028939571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mobile - Flappy Bird - Version 12 Sprites_46
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 196
-        width: 113
-        height: 57
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 912d2089593b92d60800000000000000
-      internalID: 7866015679261102617
       vertices: []
       indices: 
       edges: []
@@ -2189,6 +2126,48 @@ TextureImporter:
       bones: []
       spriteID: 4e28638eece5ec4c0800000000000000
       internalID: -4265367554321120540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 216
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4428f423001ac40800000000000000
+      internalID: 5521694834215240920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 237
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445610dd97ad4a250800000000000000
+      internalID: 5955124824224392516
       vertices: []
       indices: 
       edges: []

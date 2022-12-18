@@ -12,6 +12,11 @@ public class CameraMovement : MonoBehaviour
 
     private void Update()
     {
+        Move();
+    }
+
+    private void Move()
+    {
         transform.position = new Vector3(_bird.transform.position.x + _offsetByX, transform.position.y, transform.position.z);
     }
 }
